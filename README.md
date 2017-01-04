@@ -1,6 +1,6 @@
 ## RRR技术管理框架
 
-RRR技术管理框架是技术管理落地的好工具，具体内容请看[浏览幻灯片](https://thinkry.github.io/rrr/)，欢迎[交流反馈](https://github.com/thinkry/rrr/issues)。
+RRR技术管理框架是技术管理落地的好工具，具体内容请看[浏览幻灯片](https://thinkry.github.io/rrr/)（幻灯片源码在gp-pages分支），欢迎[交流反馈](https://github.com/thinkry/rrr/issues)。
 
 ***
 当我们在程序员的岗位做得出色，被任命为技术经理(组长、主程序)时，除了提拔的喜悦，还会有种`面对新问题域的茫然感`。
